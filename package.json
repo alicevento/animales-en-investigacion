@@ -1,0 +1,15 @@
+{
+    "type": "module",
+    "name": "pruebajs",
+    "version": "1.0.0",
+    "description": "Programación Avanzada con JavaScript",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "api": "node ./assets/js/control.js",
+      "clases": "node ./assets/js/animalClasses.js"
+    },
+    "keywords": [],
+    "author": "Alicia Vento",
+    "license": "ISC"
+  }
